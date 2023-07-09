@@ -1,19 +1,76 @@
 body{
-	font-family: 'Helvetica', 'Arial', 'sans-serif'
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', 'sans-serif';
+	font-size: 20px;
+	line-height: 30px;
 }
 
 header{
-	width: 1200px;
 	background-color: FireBrick;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
+h1, h2{
+	font-family: 'Merriweather', serif;
+}
+
 header h1{
 	color: Orange;
+	font-size: 30px;
 	background-color: black;
 }
 
 header img{
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: Orange;
+	background-color: black;
+	margin: 40px 0 10px;
+}
+
+a{
+	color: FireBrick;
+}
+a:hover{
+	color: orange;
+	background-color: black;
+}
+
+footer{
+	background-color: FireBrick;
+	text-align: center;
+	color: floralwhite;
+	padding: 50px;
+}
+
+footerp{
+	margin: 0;
+}
+
+footer a{
+	color: floralwhite;
+}
+footer a:hover{
+	opacity: 5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: dimgrey;
+	font-style: italic;
+	margin-top: 0;
 }
