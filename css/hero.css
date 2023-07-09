@@ -3,7 +3,7 @@ body{
 }
 
 header{
-	width: 1500px;
+	width: 1200px;
 	background-color: FireBrick;
 	text-align: center;
 	padding-top: 50px;
@@ -16,6 +16,4 @@ header h1{
 }
 
 header img{
-	border-right-width: 500px;
-
 }
