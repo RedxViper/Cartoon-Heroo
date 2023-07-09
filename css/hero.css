@@ -1,10 +1,10 @@
 body{
+	background-color: FireBrick;
 	margin: 0;
 	font-family: 'Helvetica', 'Arial', 'sans-serif'
 }
 
 header{
-	background-color: FireBrick;
 	text-align: center;
 	padding-top: 50px;
 }
