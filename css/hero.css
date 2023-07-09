@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	font-family: 'Helvetica', 'Arial', 'sans-serif'
+}
+
+header{
+	background-color: FireBrick;
+	text-align: center;
+	padding-top: 15px;
+}
+
+header h1{
+	color: Orange;
+}
+
+header img{
+	border-radius: 150px;
+}
