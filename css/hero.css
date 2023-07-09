@@ -1,5 +1,4 @@
 body{
-	width: 1200px;
 	margin: 0;
 	font-family: 'Helvetica', 'Arial', 'sans-serif';
 	font-size: 20px;
@@ -7,7 +6,6 @@ body{
 }
 
 header{
-	width: 1200px;
 	background-color: FireBrick;
 	text-align: center;
 	padding-top: 50px;
@@ -28,7 +26,6 @@ header img{
 }
 
 main{
-	width: 1200px;
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
@@ -39,7 +36,6 @@ main img{
 }
 
 h2{
-	width: 1200px;
 	font-size: 30px;
 	color: Orange;
 	background-color: black;
@@ -55,7 +51,7 @@ a:hover{
 }
 
 footer{
-	width: 1200px;
+	width: 1400px;
 	background-color: FireBrick;
 	text-align: center;
 	color: floralwhite;
