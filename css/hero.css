@@ -1,8 +1,10 @@
 body{
 	width: 1200px;
+	color: FireBrick;
+	background-color: orange;
 	margin: 0;
 	font-family: 'Helvetica', 'Arial', 'sans-serif';
-	font-size: 20px;
+	font-size: 25px;
 	line-height: 30px
 }
 
@@ -17,6 +19,9 @@ header{
 h1, h2{
 	font-family: 'Merriweather', serif;
 }
+
+/* header styles */
+/* SOLDIER 1st Class*/
 
 header h1{
 	color: Orange;
@@ -38,7 +43,7 @@ main img{
 
 h2{
 	font-size: 30px;
-	color: Orange;
+	color: FireBrick;
 	background-color: black;
 	margin: 40px 0 10px;
 }
